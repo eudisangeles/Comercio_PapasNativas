@@ -1,0 +1,86 @@
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\csc.exe
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\vbc.exe
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\VBCSCompiler.exe
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\CERomerin.dll.config
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\CERomerin.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\CERomerin.pdb
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Helpers.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Mvc.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Razor.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Webpages.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Webpages.Razor.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Razor.xml
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Webpages.xml
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Webpages.Razor.xml
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Helpers.xml
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\System.Web.Mvc.xml
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\es\System.Web.Razor.resources.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\obj\Debug\CERomerin.csprojResolveAssemblyReference.cache
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\obj\Debug\CERomerin.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\obj\Debug\CERomerin.pdb
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\EntityFramework.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\EntityFramework.SqlServer.dll
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\EntityFramework.xml
+C:\Users\Saint-X\Google Drive\I.S. UNSCH\Proyectos\VisualStudio\CERomero\CERomerin\bin\EntityFramework.SqlServer.xml
+E:\CEPapitas-master\CERomerin\bin\roslyn\csc.exe
+E:\CEPapitas-master\CERomerin\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CEPapitas-master\CERomerin\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CEPapitas-master\CERomerin\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CEPapitas-master\CERomerin\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CEPapitas-master\CERomerin\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CEPapitas-master\CERomerin\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CEPapitas-master\CERomerin\bin\roslyn\System.Collections.Immutable.dll
+E:\CEPapitas-master\CERomerin\bin\roslyn\System.Reflection.Metadata.dll
+E:\CEPapitas-master\CERomerin\bin\roslyn\vbc.exe
+E:\CEPapitas-master\CERomerin\bin\roslyn\VBCSCompiler.exe
+E:\CEPapitas-master\CERomerin\bin\roslyn\VBCSCompiler.exe.config
+E:\CEPapitas-master\CERomerin\bin\CERomerin.dll.config
+E:\CEPapitas-master\CERomerin\bin\CERomerin.dll
+E:\CEPapitas-master\CERomerin\bin\CERomerin.pdb
+E:\CEPapitas-master\CERomerin\bin\EntityFramework.dll
+E:\CEPapitas-master\CERomerin\bin\EntityFramework.SqlServer.dll
+E:\CEPapitas-master\CERomerin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CEPapitas-master\CERomerin\bin\Microsoft.Web.Infrastructure.dll
+E:\CEPapitas-master\CERomerin\bin\System.Web.Helpers.dll
+E:\CEPapitas-master\CERomerin\bin\System.Web.Mvc.dll
+E:\CEPapitas-master\CERomerin\bin\System.Web.Razor.dll
+E:\CEPapitas-master\CERomerin\bin\System.Web.Webpages.Deployment.dll
+E:\CEPapitas-master\CERomerin\bin\System.Web.Webpages.dll
+E:\CEPapitas-master\CERomerin\bin\System.Web.Webpages.Razor.dll
+E:\CEPapitas-master\CERomerin\bin\EntityFramework.xml
+E:\CEPapitas-master\CERomerin\bin\EntityFramework.SqlServer.xml
+E:\CEPapitas-master\CERomerin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CEPapitas-master\CERomerin\bin\System.Web.Razor.xml
+E:\CEPapitas-master\CERomerin\bin\System.Web.Webpages.xml
+E:\CEPapitas-master\CERomerin\bin\System.Web.Webpages.Deployment.xml
+E:\CEPapitas-master\CERomerin\bin\System.Web.Webpages.Razor.xml
+E:\CEPapitas-master\CERomerin\bin\System.Web.Helpers.xml
+E:\CEPapitas-master\CERomerin\bin\System.Web.Mvc.xml
+E:\CEPapitas-master\CERomerin\bin\es\System.Web.Razor.resources.dll
+E:\CEPapitas-master\CERomerin\bin\es\System.Web.Webpages.resources.dll
+E:\CEPapitas-master\CERomerin\bin\es\System.Web.Webpages.Deployment.resources.dll
+E:\CEPapitas-master\CERomerin\bin\es\System.Web.Webpages.Razor.resources.dll
+E:\CEPapitas-master\CERomerin\bin\es\System.Web.Helpers.resources.dll
+E:\CEPapitas-master\CERomerin\bin\es\System.Web.Mvc.resources.dll
+E:\CEPapitas-master\CERomerin\obj\Debug\CERomerin.csprojResolveAssemblyReference.cache
+E:\CEPapitas-master\CERomerin\obj\Debug\CERomerin.dll
+E:\CEPapitas-master\CERomerin\obj\Debug\CERomerin.pdb
